@@ -167,6 +167,9 @@ Priyanshi
 GitHub:
 https://github.com/Priyanshi102003
 
+LinkedIn: 
+[https://www.linkedin.com/in/priyanshi-530b4a350)
+
 ## Acknowledgements
 
 - Hugging Face
